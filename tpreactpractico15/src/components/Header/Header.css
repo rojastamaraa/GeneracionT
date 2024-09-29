@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #22223B;
+}
+
+.navbar .navbar-brand {
+    color: white;
+}
+
+.boton {
+    background-color: #4A4E69;
+    border: none;
+}
+
+.boton:hover{
+    background-color: #3d415f;
+}

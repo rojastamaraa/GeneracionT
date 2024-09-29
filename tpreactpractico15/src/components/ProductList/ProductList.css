@@ -1,0 +1,13 @@
+.product-list {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product-item {
+    width: 30%;
+    border: 1px solid #ccc;
+    padding: 3%;
+    border-radius: 5px;
+}
