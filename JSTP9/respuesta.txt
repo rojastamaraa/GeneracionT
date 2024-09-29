@@ -1,0 +1,5 @@
+1. ¿Qué Devuelve Cada Función?
+
+Función test1: Devuelve: 40 - 10, que es 30.
+
+Función test2: Devuelve: 10 * 2, que es 20. La ejecución se detiene en el primer return.

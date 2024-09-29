@@ -1,0 +1,30 @@
+.pan {
+    width: 200px;
+    height: 30px;
+    background-color: #ffca57;
+    border-start-end-radius: 25px;
+    border-start-start-radius: 25px;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    border-bottom: 10px solid #c69c42;
+    margin: 0 auto; 
+}
+
+.panin{
+    width: 200px;
+    height: 30px;
+    background-color: #ffca57;
+    border-start-end-radius: 10px;
+    border-start-start-radius: 10px;
+    border-end-start-radius: 25px;
+    border-end-end-radius: 25px;
+    border-top: 10px solid #c69c42;
+    margin: 0 auto; 
+}
+.salchicha {
+    width: 250px;
+    height: 50px;
+    background-color: #ae2f44; 
+    border-radius: 25px; 
+    margin: 0 auto; 
+}

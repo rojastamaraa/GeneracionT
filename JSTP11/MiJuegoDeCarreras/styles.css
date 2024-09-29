@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.pista {
+    width: 600px;
+    height: 300px;
+    border: 2px solid #333;
+    position: relative;
+    background-color: #eaeaea;
+}
+
+img {
+    width: 50px;
+    height: 30px;
+    position: absolute;
+}
+
+#autoRojo {
+    bottom: 60%;
+} 
+
+#autoAzul {
+    bottom: 30%;
+}

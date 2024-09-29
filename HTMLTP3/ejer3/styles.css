@@ -1,0 +1,44 @@
+/* Clase Carnívoros */
+.carnivoros {
+    background-color: darkred;
+}
+
+/* Clase Herbívoros */
+.herbivoros {
+    background-color: lightgreen;
+}
+
+/* ID para el T-Rex */
+#trex {
+    font-size: 24px;
+    color: rgb(173, 97, 112); /* Un color de fuente más llamativo */
+}
+
+/* ID para el Triceratops */
+#triceratops {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Clase Voladores */
+.voladores {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Añade una sombra de texto para efecto de elevación */
+}
+
+/* Clase Acuáticos */
+.acuaticos {
+    font-style: italic; /* Pone las letras de los nombres en cursiva */
+    color: blue; /* Color de texto azul */
+}
+
+/* Modificación de la clase Guías */
+.guias {
+    text-align: center; /* Centra los nombres de los guías */
+    color: brown; /* Cambia el color del texto a marrón */
+}
+
+/* Clase Atracciones */
+.atracciones {
+    letter-spacing: 2px; /* Aumenta el espacio entre las letras */
+    border: 1px solid black; /* Define un borde decorativo */
+}
